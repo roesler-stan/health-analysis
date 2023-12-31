@@ -1,9 +1,8 @@
-Analyze your health trends.
+## Welcome!
 
-Track your observations, symptoms, and medication usage over time using a Google sheet.
+These notebooks help you gain insights about your health.  They assume you're tracking your symptoms in a Google sheet like [this](https://docs.google.com/spreadsheets/d/1ZZP9MqIlzUlu6MgsLTdogAXfqFi91Oi59sjLXQch_qQ/edit#gid=1102650863)
 
-Example sheet:
-https://docs.google.com/spreadsheets/d/1ZZP9MqIlzUlu6MgsLTdogAXfqFi91Oi59sjLXQch_qQ/edit#gid=1102650863
+## Steps
 
 1. Set up a Google Sheets API authentication here, and paste the relevant key path in constants.ipynb.  See https://developers.google.com/workspace/explore?filter= and  https://console.cloud.google.com/apis/credentials?pli=1
 
