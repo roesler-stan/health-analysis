@@ -2,9 +2,9 @@ These notebooks help you gain insights about your health.  They assume you're tr
 
 ### Setup
 
-1. Set up a Google Sheets API authentication [here](https://console.cloud.google.com/apis/credentials?pli=1), and paste the relevant key path in constants.ipynb. Also see [this page](https://console.cloud.google.com/iam-admin/serviceaccounts).
+1. Set up a Google Sheets API authentication [here](https://console.cloud.google.com/apis/credentials?pli=1), and copy your JSON key into a directory called "keys".  Paste the key's path in constants.ipynb. Also see [this page](https://console.cloud.google.com/iam-admin/serviceaccounts).
 
-2. Pip install the required packages (requirements.txt).
+2. Pip install the required packages (requirements.txt) or manually install the packages used in the notebooks.  Sorry I didn't use a virtual environment - requirements.txt lists all packages I installed on my laptop. :/
 
 3. Make a directory called "output" to store images and HTML files.
 
