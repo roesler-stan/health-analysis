@@ -2,7 +2,7 @@ These notebooks help you gain insights about your health.  They assume you're tr
 
 ### Setup
 
-1. Set up a Google Sheets API authentication [here](https://console.cloud.google.com/apis/credentials?pli=1), and paste the relevant key path in constants.ipynb. Also see [this page](https://developers.google.com/workspace/explore?filter=)
+1. Set up a Google Sheets API authentication [here](https://console.cloud.google.com/apis/credentials?pli=1), and paste the relevant key path in constants.ipynb. Also see [this page](https://console.cloud.google.com/iam-admin/serviceaccounts).
 
 2. Pip install the required packages (requirements.txt).
 
