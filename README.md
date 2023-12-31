@@ -10,7 +10,12 @@ These notebooks help you gain insights about your health.  They assume you're tr
 
 4. Run 3_parent.ipynb to generate insights!
 
-![example menstrual cycle charting](output/charting_2023-12-31.png)
+### Example insights
+1. Menstrual cycle charting (based on cervical mucus).
+![cycle charting](output/charting_2023-12-31.png)
+
+2. Pelvic pain in relation to menstrual cycle.
+![pain by cycle](output/pelvic_pain_inferred_valid_only_True.png)
 
 ### Feedback
 Please reach out to katroesler@gmail.com with any feedback or questions.  I'd be happy to run the code for you or update it to meet your needs.
