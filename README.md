@@ -10,5 +10,7 @@ These notebooks help you gain insights about your health.  They assume you're tr
 
 4. Run 3_parent.ipynb to generate insights!
 
+![example menstrual cycle charting](output/charting_2023-12-31.png)
+
 ### Feedback
 Please reach out to katroesler@gmail.com with any feedback or questions.  I'd be happy to run the code for you or update it to meet your needs.
