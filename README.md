@@ -6,7 +6,9 @@ These notebooks help you gain insights about your health.  They assume you're tr
 
 2. Pip install the required packages (requirements.txt).
 
-3. Run 3_parent.ipynb to generate insights!
+3. Make a directory called "output" to store images and HTML files.
+
+4. Run 3_parent.ipynb to generate insights!
 
 ### Feedback
 Please reach out to katroesler@gmail.com with any feedback or questions.  I'd be happy to run the code for you or update it to meet your needs.
