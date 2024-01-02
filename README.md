@@ -12,7 +12,7 @@ These notebooks help you gain insights about your health.  They assume you're tr
 
 ### Example insights
 1. Menstrual cycle charting (based on cervical mucus).
-![cycle charting](output/charting_2023-12-31.png)
+![cycle charting](output/charting_2024-01-02.png)
 
 2. Pelvic pain in relation to menstrual cycle.
 ![pain by cycle](output/pelvic_pain_inferred_valid_only_True.png)
