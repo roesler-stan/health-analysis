@@ -1,8 +1,8 @@
-These notebooks help you gain insights about your health.
+These notebooks help you gain insights about your health and share summaries with your doctors.
 
 ### Setup
 
-1. Track your symptoms in a Google sheet like [this](https://docs.google.com/spreadsheets/d/1ZZP9MqIlzUlu6MgsLTdogAXfqFi91Oi59sjLXQch_qQ/edit#gid=1102650863). You can track different symptoms than the ones in the example, the code can be adjusted
+1. Track your symptoms in a Google sheet like [this](https://docs.google.com/spreadsheets/d/1ZZP9MqIlzUlu6MgsLTdogAXfqFi91Oi59sjLXQch_qQ/edit#gid=1102650863). You can track different symptoms than the ones in the example, the code can be adjusted.
 
 2. Set up a Google Sheets API authentication [here](https://console.cloud.google.com/apis/credentials?pli=1), and copy your JSON key into a directory called "keys".  Paste the key's path in constants.ipynb. Also see [this page](https://console.cloud.google.com/iam-admin/serviceaccounts).  Share your Google spreadsheet with your service account email (e.g., read-spreadsheet@<project-name>.iam.gserviceaccount.com).
 
