@@ -18,12 +18,15 @@ These notebooks help you gain insights about your health and share summaries wit
 1. Menstrual cycle charting (based on cervical mucus).
 ![cycle charting](output/charting.png)
 
-2. Pelvic pain in relation to menstrual cycle.
+2. Medications taken recently.
+![medications](output/medications.png)
+
+3. Pelvic pain in relation to menstrual cycle.
 ![pain by cycle](output/pelvic_pain_inferred_valid_only_True.png)
 
-3. Short summary to share with doctors: [link](https://kroesler.com/health/analysis_for_drs.html).
+4. Short summary to share with doctors: [link](https://kroesler.com/health/analysis_for_drs.html).
 
-4. Longer analysis to gain insights: [link](https://kroesler.com/health/analysis.html).
+5. Longer analysis to gain insights: [link](https://kroesler.com/health/analysis.html).
 
 ### Feedback
 Please reach out to katroesler@gmail.com with any feedback or questions.  I'd be happy to run the code for you or update it to meet your needs.
