@@ -24,9 +24,10 @@ These notebooks help you gain insights about your health and share summaries wit
 3. Pelvic pain in relation to menstrual cycle.
 ![pain by cycle](output/pelvic_pain_inferred_valid_only_True.png)
 
-4. Short summary to share with doctors: [link](https://kroesler.com/health/analysis_for_drs.html).
+4. Diets
+![stomach pain by diet](output/diet_stomach pain.png)
 
-5. Longer analysis to gain insights: [link](https://kroesler.com/health/analysis.html).
+5. Summary to share with doctors: [link](https://kroesler.com/health/analysis_for_drs.html).
 
 ### Feedback
 Please reach out to katroesler@gmail.com with any feedback or questions.  I'd be happy to run the code for you or update it to meet your needs.
