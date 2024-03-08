@@ -25,7 +25,7 @@ These notebooks help you gain insights about your health and share summaries wit
 ![pain by cycle](output/pelvic_pain_inferred_valid_only_True.png)
 
 4. Diets
-![stomach pain by diet](output/diet_stomach pain.png)
+![stomach](output/pelvic_pain_inferred_valid_only_True.png)
 
 5. Summary to share with doctors: [link](https://kroesler.com/health/analysis_for_drs.html).
 
