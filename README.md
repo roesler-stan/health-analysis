@@ -1,5 +1,21 @@
 These notebooks help you gain insights about your health and share summaries with your doctors.
 
+### Example insights
+1. Menstrual cycle charting (based on cervical mucus).
+![cycle charting](output/charting.png)
+
+2. Medications taken recently.
+![medications](output/medications.png)
+
+3. Pelvic pain in relation to menstrual cycle.
+![pain by cycle](output/pelvic_pain_inferred_valid_only_True.png)
+
+4. Diets
+![stomach pain by diet](output/diet_stomach_pain.png)
+
+5. Summary to share with doctors: [link](https://kroesler.com/health/analysis_for_drs.html).
+
+
 ### Setup
 
 1. Track your symptoms in a Google sheet like [this](https://docs.google.com/spreadsheets/d/1ZZP9MqIlzUlu6MgsLTdogAXfqFi91Oi59sjLXQch_qQ/edit#gid=1102650863). You can track different symptoms than the ones in the example, the code can be adjusted.
@@ -14,20 +30,6 @@ These notebooks help you gain insights about your health and share summaries wit
 
 6. Run 3_parent.ipynb to generate insights!
 
-### Example insights
-1. Menstrual cycle charting (based on cervical mucus).
-![cycle charting](output/charting.png)
-
-2. Medications taken recently.
-![medications](output/medications.png)
-
-3. Pelvic pain in relation to menstrual cycle.
-![pain by cycle](output/pelvic_pain_inferred_valid_only_True.png)
-
-4. Diets
-![stomach pain by diet](output/diet_stomach\ pain.png)
-
-5. Summary to share with doctors: [link](https://kroesler.com/health/analysis_for_drs.html).
 
 ### Feedback
 Please reach out to katroesler@gmail.com with any feedback or questions.  I'd be happy to run the code for you or update it to meet your needs.
