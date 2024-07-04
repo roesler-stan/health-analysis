@@ -7,11 +7,11 @@ These notebooks help you gain insights about your health and share summaries wit
 2. Medications taken recently.
 ![medications](output/medications.png)
 
-3. Pelvic pain in relation to menstrual cycle.
-![pain by cycle](output/pelvic_pain_inferred_valid_only_True.png)
+3. Medication summary
+![medications](output/medication_summary.txt)
 
 4. Diets
-![stomach pain by diet](output/diet_stomach_pain.png)
+![stomach pain by diet](output/diet_BMs.png)
 
 5. Summary to share with doctors: [link](https://kroesler.com/health/analysis_for_drs.html).
 
