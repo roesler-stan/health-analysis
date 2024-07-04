@@ -7,13 +7,13 @@ These notebooks help you gain insights about your health and share summaries wit
 2. Medications taken recently.
 ![medications](output/medications.png)
 
-3. Medication summary
-![medications](output/medication_summary.txt)
-
-4. Diets
+3. Diets
 ![stomach pain by diet](output/diet_BMs.png)
 
-5. Summary to share with doctors: [link](https://kroesler.com/health/analysis_for_drs.html).
+4. Summary to share with doctors
+![summary](output/analysis_for_drs.html)
+
+[link](https://kroesler.com/health/analysis_for_drs.html).
 
 
 ### Setup
